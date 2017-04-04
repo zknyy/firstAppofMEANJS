@@ -4,11 +4,11 @@
   "version": "0.5.0",
   "meanjs-version": "0.5.0",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "https://github.com/zknyy/firstAppofMEANJS/graphs/contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meanjs/mean.git"
+    "url": "https://github.com/zknyy/firstAppofMEANJS/mean.git"
   },
   "engines": {
     "node": ">=4.6.0",
